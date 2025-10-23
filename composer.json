@@ -1,0 +1,19 @@
+{
+    "name": "lucasnunes/locadora-lk",
+    "description": "Projeto da aula de programação para internet do curso de GTI da Fatec Jahu",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App//"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Daniel Nunes",
+            "email": "lucas.nunes34@fatec.sp.gov.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
